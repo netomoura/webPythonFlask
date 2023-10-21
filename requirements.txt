@@ -124,9 +124,6 @@ python-lsp-jsonrpc==1.0.0
 python-lsp-server==1.7.4
 pytoolconfig==1.2.5
 pytz==2023.3
-pywin32==306
-pywin32-ctypes==0.2.2
-pywinpty==2.0.11
 pyxdg==0.28
 PyYAML==6.0.1
 pyzmq==25.1.1
