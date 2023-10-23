@@ -150,7 +150,6 @@ sphinxcontrib-htmlhelp==2.0.1
 sphinxcontrib-jsmath==1.0.1
 sphinxcontrib-qthelp==1.0.3
 sphinxcontrib-serializinghtml==1.1.5
-spyder-kernels==2.4.4
 spyder-terminal==1.2.2
 stack-data==0.6.2
 streamlit==1.27.2
